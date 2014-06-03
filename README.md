@@ -7,8 +7,6 @@ should-deprecated
 
 [![NPM](https://nodei.co/npm/should-deprecated.png?downloads=true&stars=true)](https://nodei.co/npm/should-deprecated/)
 
-![logo](https://raw.github.com/fengmk2/should-deprecated/master/logo.png)
-
 should.js deprecated assertions
 
 ## Install

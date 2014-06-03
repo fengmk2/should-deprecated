@@ -1,6 +1,6 @@
 {
   "name": "should-deprecated",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "should-deprecated",
   "main": "index.js",
   "scripts": {
