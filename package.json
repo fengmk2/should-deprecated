@@ -1,0 +1,44 @@
+{
+  "name": "should-deprecated",
+  "version": "0.0.0",
+  "description": "should-deprecated",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test-all"
+  },
+  "config": {
+    "cov": {
+      "threshold": 100
+    }
+  },
+  "dependencies": {
+    "should": "~4.0.0"
+  },
+  "devDependencies": {
+    "autod": "*",
+    "contributors": "*",
+    "cov": "*",
+    "istanbul-harmony": "*",
+    "jshint": "*",
+    "mocha": "*",
+    "should": "*"
+  },
+  "homepage": "https://github.com/fengmk2/should-deprecated",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fengmk2/should-deprecated.git",
+    "web": "https://github.com/fengmk2/should-deprecated"
+  },
+  "bugs": {
+    "url": "https://github.com/fengmk2/should-deprecated/issues",
+    "email": "fengmk2@gmail.com"
+  },
+  "keywords": [
+    "should-deprecated"
+  ],
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "author": "fengmk2 <fengmk2@gmail.com> (http://fengmk2.github.com)",
+  "license": "MIT"
+}
